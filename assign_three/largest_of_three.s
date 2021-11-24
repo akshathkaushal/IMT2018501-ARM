@@ -1,4 +1,4 @@
-     AREA  largest, CODE, READONLY
+     AREA  largestthree, CODE, READONLY
      EXPORT __main
      IMPORT printMsg
 	 
