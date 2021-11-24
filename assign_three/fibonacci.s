@@ -1,4 +1,4 @@
-     AREA     fib, CODE, READONLY
+     AREA     fibonacci, CODE, READONLY
      EXPORT __main
      IMPORT printMsg
      ENTRY 
