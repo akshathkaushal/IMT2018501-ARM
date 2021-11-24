@@ -1,4 +1,4 @@
-	 AREA     even, CODE, READONLY
+     AREA     evenarr, CODE, READONLY
      EXPORT __main
      IMPORT printMsg
      ENTRY 
